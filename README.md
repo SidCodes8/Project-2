@@ -29,7 +29,7 @@ This project answers several business-critical questions, including:
 - What are the average prices for different music types?  
 - Which countries lead in music purchases?  
 
-For a full list of queries, refer to the [analysis.sql file]([https://github.com/SidCodes8/Project/blob/main/analysis.sql]).  
+For a full list of queries, refer to the analysis.sql file. 
 
 ## Insights  
 
