@@ -10,13 +10,12 @@ To explore this project:
 1. Install an SQL-supported DBMS of your choice.  
 2. Create a new database.  
 3. Use the provided schema diagram to set up the tables.  
-4. Import the data from the CSV files located in the [dataset folder](https://github.com/avishek09/Music-Store-Analysis/tree/main/dataset).  
-
-**Shortcut:** If you're using PostgreSQL, restore the database using the [backup file](https://github.com/avishek09/Music-Store-Analysis/blob/main/music_store_db_backup) to save time.  
+4. Import the data from the CSV files located in the dataset folder.  
 
 ## Schema Diagram  
 
-![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)  
+(![Schema Diagram](https://github.com/user-attachments/assets/b1798535-d653-40a3-aab6-0142406073cb)
+)  
 
 ## Tools Used  
 
@@ -30,7 +29,7 @@ This project answers several business-critical questions, including:
 - What are the average prices for different music types?  
 - Which countries lead in music purchases?  
 
-For a full list of queries, refer to the [analysis.sql file](https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql).  
+For a full list of queries, refer to the [analysis.sql file]([https://github.com/SidCodes8/Project/blob/main/analysis.sql]).  
 
 ## Insights  
 
