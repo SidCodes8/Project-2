@@ -1,4 +1,4 @@
-# SQL Project: Online Music Store Analysis  
+# SQL Project: Digital Audio Store Analysis  
 
 ## Overview  
 
